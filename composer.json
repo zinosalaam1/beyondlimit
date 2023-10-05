@@ -1,13 +1,13 @@
 {
-    "name": "uddhav/itcompany",
+    "name": "bola/beyondlimit",
     "autoload": {
         "psr-4": {
-            "Uddhav\\Itcompany\\": "src/"
+            "Bola\\Beyondlimit\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "Beyondlimit"
         }
     ],
     "require": {
